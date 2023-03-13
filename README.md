@@ -115,7 +115,8 @@ Typescript 기반 React 웹 프로젝트 'Foodiary'입니다!
 > - 글 작성, 수정, 삭제 가능
 <br/>
 <p align="center">
-  <img width="20%" height="40%" src=""/>
+  <img width="20%" height="40%" src="https://user-images.githubusercontent.com/98149590/224706580-e972c705-2ee1-4e2c-ada1-d2f377bc0bb4.png"/>
+  <img width="20%" height="40%" src="https://user-images.githubusercontent.com/98149590/224706667-a5c3fa1a-f26d-4f33-a2ed-fa1188298258.png"/>
 </p>
 
 - **하루 공유 상세 페이지**
