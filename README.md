@@ -3,9 +3,9 @@
 ## 목차
 - [프로젝트 소개](#foodiary)
 - [배포 링크](#link)
-- [사용 기술](#사용-기술프론트)
+- [사용 기술(프론트)](#사용-기술)
 - [주요 기능](#주요-기능)
-- [기능 플로우(이미지)](#기능-플로우이미지)
+- [기능 플로우(이미지)](#기능-플로우)
 
 <br/>
 
@@ -24,8 +24,9 @@ Typescript 기반 React 웹 프로젝트 'Foodiary'입니다!
 ## 🔗Link
 - https://foodiary.netlify.app/
 
-## 🖥️사용 기술(프론트)
-<p align="center">
+## 🖥사용 기술
+> 프론트
+<p>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=#5A29E4">&nbsp
@@ -54,7 +55,7 @@ Typescript 기반 React 웹 프로젝트 'Foodiary'입니다!
 - 추천 메뉴 좋아요/싫어요를 통한 취향 변경 기능
 - 소셜 로그인(구글, 네이버)
 
-## ✏️기능 플로우(이미지)
+## ✏기능 플로우
 - **메인페이지**
 > - 음식 메뉴 추천(음식 카테고리별 이미지 상이)
 >   - 새로고침 버튼을 누르면 새로운 메뉴 추천
