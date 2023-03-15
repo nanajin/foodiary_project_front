@@ -67,6 +67,11 @@ Typescript 기반 React 웹 프로젝트 'Foodiary'입니다!
   <img width="20%" height="40%" src="https://user-images.githubusercontent.com/98149590/224648377-354899e6-c397-4089-ab9a-7b5fe1069e87.png" />
 </p>
 
+- **웹 버전 화면**
+<p align="center">
+  <img width="100%" height="100%" src="https://user-images.githubusercontent.com/98149590/225214075-00ceac9c-121d-4b53-a34f-376bb33d4d8c.png"/>
+</p>
+
 - **로그인 페이지**
 > - 소셜 로그인(구글, 네이버)
 >   - 처음 접속한 사용자라면 회원가입 페이지로 이동
